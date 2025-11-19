@@ -38,7 +38,7 @@ Tkinter GUI in python to control a laboratory power supply.
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaljtoma&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaljtoma&layout=compact)
 
 ---
 
