@@ -44,4 +44,3 @@ Tkinter GUI in python to control a laboratory power supply.
 
 ## 📫 Connect with Me
 - 📧 Email: mihaljtoma5@gmail.com
-- 🔗 LinkedIn: your-linkedin  
