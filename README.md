@@ -31,10 +31,10 @@ Python Tkinter GUI for controlling a laboratory power supply, with input/output 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihaljtoma&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaljtoma&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaljtoma&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaljtoma&layout=compact)
+
 
 ---
 
