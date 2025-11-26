@@ -26,6 +26,7 @@ A Java-based Android app made to calculate statistics of results of played games
 
 ### 🔹 Project 2 — **Bookworm Web App**
 A Vue.js platform for finding and recommending books and keeping track of all books that have already been read connected to a backend API developed in team for college project.  
+
 web -> [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/bookworm313/bookworm_web)                      server->  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/bookworm313/bookworm_server)
 
 
