@@ -21,8 +21,7 @@ A Java Android app to track game results and calculate statistics with friends.
 
 **📚 Bookworm Web App**  
 Vue.js platform to discover, recommend, and track books, connected to a backend API. College team project.  
-[![Web Repo](https://img.shields.io/badge/Web-Repository-blue)](https://github.com/bookworm313/bookworm_web)  
-[![Server Repo](https://img.shields.io/badge/Server-Repository-blue)](https://github.com/bookworm313/bookworm_server)
+[![Web Repo](https://img.shields.io/badge/Web-Repository-blue)](https://github.com/bookworm313/bookworm_web)          [![Server Repo](https://img.shields.io/badge/Server-Repository-blue)](https://github.com/bookworm313/bookworm_server)
 
 **⚡ AX-6003P Power Supply GUI**  
 Python Tkinter GUI for controlling a laboratory power supply, with input/output monitoring and control.  
