@@ -18,7 +18,8 @@ I enjoy building projects in **Java**, **Python**, **React**, **Vue.js**, and mo
 
 ### 🔹 Project 1 — **Rezultati Karte**
 A Java-based Android app made to keep statistics of results of played games with friends.  
-👉 *[Link to Repo](#)*
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mihaljtoma/rezultati_karte)
+
 
 ---
 
