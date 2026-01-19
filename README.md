@@ -19,7 +19,7 @@ I love building apps and tools in **Java**, **JavaScript**, **TypeScript**, **Re
 **💈 Frizerski Salon ANI
 A React + Next.js (TypeScript) website for a local barbershop, presenting services, pricing, and contact details with a clean, modern, and mobile-friendly layout.
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mihaljtoma/barber-shop)
-[![Website](https://img.shields.io/badge/Website-Live-success)]([pottery-web.vercel.app](https://barber-shop-two-omega.vercel.app/))
+[![Website](https://img.shields.io/badge/Website-Live-success)](https://barber-shop-two-omega.vercel.app/))
 
 
 **🏺 Rosy Pottery
