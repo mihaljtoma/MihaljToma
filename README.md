@@ -26,11 +26,11 @@ A React + Next.js (TypeScript) website for a local barbershop, presenting servic
 **🏺 Rosy Pottery
 A React + Next.js (TypeScript) website for a small business showcasing and selling handcrafted pottery, focused on elegant design, product presentation, and brand storytelling.
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mihaljtoma/pottery-web)
-
+[![Website](https://pottery-web.vercel.app/hr)]
 **🎮 Rezultati Karte**  
 A Java Android app to track game results and calculate statistics with friends.  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mihaljtoma/rezultati_karte)
-[![Website](https://img.shields.io/badge/Website-Rosy%20Pottery-ff69b4)]([pottery-web.vercel.app](https://pottery-web.vercel.app/hr))
+
 **📚 Bookworm Web App**  
 Vue.js platform to discover, recommend, and track books, connected to a backend API. College team project.  
 [![Web Repo](https://img.shields.io/badge/Web-Repository-blue)](https://github.com/bookworm313/bookworm_web)          [![Server Repo](https://img.shields.io/badge/Server-Repository-blue)](https://github.com/bookworm313/bookworm_server)
