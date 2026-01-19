@@ -1,19 +1,27 @@
 # 👋 Hi, I'm Toma Mihalj!
 
 ### 🚀 Developer | Builder | Problem Solver
-I love building apps and tools in **Java**, **Python**, **React**, **Vue.js**, and more. Passionate about solving problems, tracking data, and creating meaningful projects.
+I love building apps and tools in **Java**, **JavaScript**, **TypeScript**, **React**, **Next**, and more. Passionate about solving problems, tracking data, and creating meaningful projects.
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:** Java, JavaScript, Python, C#, C  
-**Frameworks & Libraries:** React, Vue.js, Unity  
-**Databases:** Supabase, MySQL, Room  
+**Frameworks & Libraries:** React, Vite.js, Next 
+**Databases:** Supabase, Room  
 **Tools & IDEs:** Android Studio, VS Code, Unity  
 
 ---
 
 ### 📂 Featured Projects
+
+**💈 Frizerski Salon ANI
+A React + Next.js (TypeScript) website for a local barbershop, presenting services, pricing, and contact details with a clean, modern, and mobile-friendly layout.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mihaljtoma/barber-shop)
+
+**🏺 Rosy Pottery
+A React + Next.js (TypeScript) website for a small business showcasing and selling handcrafted pottery, focused on elegant design, product presentation, and brand storytelling.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mihaljtoma/pottery-web)
 
 **🎮 Rezultati Karte**  
 A Java Android app to track game results and calculate statistics with friends.  
