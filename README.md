@@ -8,6 +8,7 @@ I love building apps and tools in **Java**, **JavaScript**, **TypeScript**, **Re
 ### 🛠️ Tech Stack
 **Languages:** Java, JavaScript, Python, C#, C  
 **Frameworks & Libraries:** React, Vite.js, Next 
+
 **Databases:** Supabase, Room  
 **Tools & IDEs:** Android Studio, VS Code, Unity  
 
@@ -29,7 +30,7 @@ A React + Next.js (TypeScript) website for a small business showcasing and selli
 **🎮 Rezultati Karte**  
 A Java Android app to track game results and calculate statistics with friends.  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mihaljtoma/rezultati_karte)
-
+[![Website](https://img.shields.io/badge/Website-Rosy%20Pottery-ff69b4)]([pottery-web.vercel.app](https://pottery-web.vercel.app/hr))
 **📚 Bookworm Web App**  
 Vue.js platform to discover, recommend, and track books, connected to a backend API. College team project.  
 [![Web Repo](https://img.shields.io/badge/Web-Repository-blue)](https://github.com/bookworm313/bookworm_web)          [![Server Repo](https://img.shields.io/badge/Server-Repository-blue)](https://github.com/bookworm313/bookworm_server)
